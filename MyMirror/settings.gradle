@@ -1,0 +1,2 @@
+rootProject.name='MyMirror'
+include ':app'
