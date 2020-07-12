@@ -1,4 +1,4 @@
-package com.app.sk.mymirror;
+package com.app.sk.kmirror;
 
 import android.content.Context;
 
