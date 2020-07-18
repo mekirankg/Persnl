@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KMirror</string>
+    <string name="app_version">V1.1</string>
 </resources>
