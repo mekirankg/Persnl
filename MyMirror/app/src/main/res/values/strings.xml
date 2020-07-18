@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">KMirror</string>
     <string name="app_version">V1.1</string>
+    <string name="app_about_content"> This is a simple fun mirror application. Lots of improvements will be done in the app in new updates. </string>
+    <string name="app_about_credits">CREDITS:  CHITRA, ARDRA</string>
+    <string name="app_about_copy_right">Copyright &#169; 2020 SK SOFT TEK</string>
+
 </resources>
