@@ -9,15 +9,19 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:background="#A9D3D8"
         android:gravity="center"
-        android:background="#A9D3D8">
+        tools:layout_editor_absoluteX="71dp"
+        tools:layout_editor_absoluteY="0dp"
+        android:orientation="vertical">
+
         <Button
-            android:background="#90B892"
+            android:id="@+id/camera_button"
             android:layout_width="wrap_content"
             android:layout_height="50dp"
-            android:id="@+id/camera_button"
-            android:text="Open KMirror"
-            android:onClick="cameraClicked"/>
+            android:background="#90B892"
+            android:onClick="cameraClicked"
+            android:text="Open KMirror" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
