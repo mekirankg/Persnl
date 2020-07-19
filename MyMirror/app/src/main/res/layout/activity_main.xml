@@ -33,13 +33,6 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:visibility="gone">
-                    <!-- <Button
-                         android:height="30dp"
-                         android:width="30dp"
-                         android:text="sample">
-
-                     </Button>-->
-
                 </SurfaceView>
 
                 <TextView

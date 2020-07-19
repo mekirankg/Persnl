@@ -174,9 +174,12 @@ public class MainActivity extends AppCompatActivity {
                 // Toast.makeText(MainActivity.this, "About clicked", Toast.LENGTH_LONG).show();
                 showAboutWindow();
                 return (true);
-         /*   case R.id.menu_version:
-                Toast.makeText(MainActivity.this, R.string.app_version, Toast.LENGTH_LONG).show();
-                return (true);*/
+            case R.id.privacy_policy:
+                Toast.makeText(MainActivity.this, "Privacy clicked", Toast.LENGTH_LONG).show();
+                Intent intent = new Intent(getApplicationContext(),
+                        PrivacyPolicyActivity.class);
+                startActivity(intent);
+                return (true);
             default:
 
         }

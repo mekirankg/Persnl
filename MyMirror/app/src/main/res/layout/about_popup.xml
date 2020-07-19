@@ -44,6 +44,12 @@
                 android:layout_width="250dp"
                 android:layout_height="wrap_content"
                 android:paddingBottom="10dp"
+                android:text="@string/app_about_contact" />
+
+            <TextView
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:paddingBottom="10dp"
                 android:text="@string/app_about_copy_right" />
         </LinearLayout>
 
